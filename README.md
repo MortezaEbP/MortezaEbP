@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 163e3a58f3f4663f3ba376db9955c50c2aaf052d
 <h1 align="center">Hi 👋, I'm Morteza Ebrahim Pour</h1>
 <h3 align="center">Passionate about Deep Learning and Data Analytics</h3>
 <p align="center">
